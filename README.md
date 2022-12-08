@@ -59,6 +59,3 @@ Project is created with:
 4. Test
 5. Optional: convert the raw analogRead values into readable motor currents and e.g. battery voltages by applying ratios in the .ino sketch.
    (use voltage dividers!) 
-
-## Special thanks 🙇
-- My mom, for recording the video!
