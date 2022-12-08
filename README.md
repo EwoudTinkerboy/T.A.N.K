@@ -50,7 +50,7 @@ Project is created with:
 - [Raspberry Pi 4 Model B (work in progress)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/),
 	
 ## Wiring
-[![the_tank.fzz](https://github.com/PVanhevel/test/blob/main/wiring.jpg)](https://github.com/PVanhevel/test/blob/main/the_tank.fzz)
+[![the_tank.fzz](https://github.com/EwoudTinkerboy/T.A.N.K/blob/main/the_tank.jpeg)](https://github.com/PVanhevel/test/blob/main/the_tank.fzz)
 
 ## Installation instructions
 1. Arduino: upload the_tank.ino sketch from GitHub onto the Arduino Uno,
@@ -58,7 +58,4 @@ Project is created with:
 3. OpenTX: 'Write Model and Settings to Radio',
 4. Test
 5. Optional: convert the raw analogRead values into readable motor currents and e.g. battery voltages by applying ratios in the .ino sketch.
-   (use voltage dividers!) 
-
-## Special thanks 🙇
-- My mom, for recording the video!
+   (use voltage dividers!)
